@@ -1,5 +1,5 @@
 // CourseEnrollmentSystem (Project Name)
-// Student.java (Class) 
+// Student.java (Class - 1) 
 
 
 // Student.java - stores and manages student data
