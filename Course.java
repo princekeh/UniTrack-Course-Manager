@@ -1,4 +1,4 @@
-// Course.java 
+// Course.java (Class - 2) 
 
 
 // Course.java - handles course info and static tracking
