@@ -1,6 +1,7 @@
 # UniTrack-Course-Manager
 
 👨‍💻 About the Project
+
 This project is a solid, clean implementation of a student and course management system, specifically designed to showcase intermediate Java OOP skills. It’s a step up from basic data structures, heavily relying on proper encapsulation, class relationships, and Java's powerful Map and List collections to model a university environment. This is a robust framework for managing enrollment, grades, and student performance.
 
 
