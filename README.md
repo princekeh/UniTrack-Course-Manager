@@ -1,4 +1,4 @@
-# UniTrack-Course-Manager
+# Student, Course and Grade Management 
 
 👨‍💻 About the Project
 
